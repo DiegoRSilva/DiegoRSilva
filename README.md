@@ -1,4 +1,4 @@
-###👋 Olá 
+### 👋 Olá 
 Me chamo Diego Rodrigues, sou graduado em Sistemas para Internet pelo Centro Universitário de João Pessoa. Desde a minha formatura, tenho me dedicado a atuar em projetos envolvendo tecnologias educacionais. Desde o final de 2023, tenho me dedicado a retornar à minha área de formação. Atualmente, tenho estudado desenvolvimento com **C#**, **.NET Core**, **SQL Server**, entre outras tecnologias.
 <!--
 **DiegoRSilva/DiegoRSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###:brain: Habilidades
+### :brain: Habilidades
 
-###:man_technologist:TechSkills
+### :man_technologist:TechSkills
